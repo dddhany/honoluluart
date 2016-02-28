@@ -29,6 +29,9 @@
                             <constraint firstAttribute="trailing" secondItem="Mul-wf-N7S" secondAttribute="trailing" id="qa1-CC-JWD"/>
                         </constraints>
                     </view>
+                    <connections>
+                        <outlet property="mapView" destination="Mul-wf-N7S" id="E74-8y-PNP"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
